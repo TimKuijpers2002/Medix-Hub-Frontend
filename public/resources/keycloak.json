@@ -1,0 +1,10 @@
+{
+    "realm": "medix-hub-secure",
+    "auth-server-url": "https://lemur-11.cloud-iam.com/auth",
+    "ssl-required": "external",
+    "resource": "medix-hub-client",
+    "public-client": false,
+    "verify-token-audience": true,
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+  }
